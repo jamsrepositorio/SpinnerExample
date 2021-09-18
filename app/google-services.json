@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1065002753334",
+    "project_id": "apprendev-5ae01",
+    "storage_bucket": "apprendev-5ae01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065002753334:android:09ea9fa4c5d6e782d76797",
+        "android_client_info": {
+          "package_name": "com.example.apprendevcursoll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065002753334-nhqmcsdodjol3n3acc61ksds6lorjg6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf_yP3l2xU7eUh4C0uDq1746djIjx3FRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065002753334-nhqmcsdodjol3n3acc61ksds6lorjg6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

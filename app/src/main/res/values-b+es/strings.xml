@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ApprendevCursoll</string>
+    <string name="correo_electronico">Correo Electronico</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido_paterno">Apellido_Paterno</string>
+    <string name="registro">Registro</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="aceptado">Aceptar</string>
+    <string name="rechazado">Rechazar</string>
+    <string name="Login_label">Iniciar sesion</string>
+    <string name="prefs_file">com.example.apprendevcursoll</string>
+    <string-array name="colors">
+        <item>Rojo</item>
+        <item>Azul</item>
+        <item>Verde</item>
+    </string-array>
+
+    <string-array name="soccer_players">
+        <item>Cristiano Ronaldo</item>
+        <item>Messi</item>
+        <item>Mbappe</item>
+        <item>Neymar</item>
+        <item>Luis Suarez</item>
+        <item>Depay</item>
+    </string-array>
+
+    <string name="title_activity_players">PlayersActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id"></string>
+    <string name="fb_login_protocol_scheme"></string>
+</resources>
